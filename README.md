@@ -2,7 +2,7 @@
 I am a fullstack software engineer from Belgrade 
 
 - 🔭 Working on multiple frontend and backend project using Java and Angular
-- 🌱 Learning design patterns in depth
+- 🌱 Using design patterns where possible
 <br>
 
 ## Connect with me
