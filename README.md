@@ -1,7 +1,7 @@
 ### Hello World 👋
 I am a fullstack software engineer from Belgrade 
 
-- 🔭 Working on multiple frontend and backend project using Java and Angular
+- 🔭 Working on multiple frontend and backend projects. Core language is Java, but now with AI agent usage, sky is the limit.
 - 🌱 Using design patterns where possible
 <br>
 
